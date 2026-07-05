@@ -1,0 +1,14 @@
+# GnuCOBOL local build artifacts (if you compile locally to test)
+*.o
+*.so
+*.exe
+empload
+empupdt
+emprpt
+*.listing
+*.lst
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,0 +1,7 @@
+A100011SUSAN CLARK              MARKETING 0004700002022-04-01        
+A100012DAVID LEWIS              IT        0006800002022-06-15        
+U100002MARY JONES               IT        0006500002018-07-01        
+U100006LINDA MOORE              FINANCE   0006000002019-09-18        
+D100007                                   000000000                  
+U100099GHOST EMP                NOWHERE   0000100002020-01-01        
+A100002DUPLICATE ID             IT        0005000002020-01-01        
